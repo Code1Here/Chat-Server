@@ -1,3 +1,10 @@
+/*
+
+        // Name: Anthony Duran
+        // Status: Complete
+        // Purpose: Facilitates the communication between two sockets
+
+ */
 package test;
 
 import javafx.application.Application;
@@ -7,11 +14,10 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 import test.controller.Client;
 
-import java.util.Objects;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-public class ClientLauncher extends Application {
+public class ChatClient extends Application { /** LAUNCHER */
 
     public static void main(String[] args) {
         launch(args);

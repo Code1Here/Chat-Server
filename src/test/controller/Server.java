@@ -1,3 +1,10 @@
+/*
+
+        // Name: Anthony Duran
+        // Status: Complete
+        // Purpose: Facilitates the communication between two sockets
+
+ */
 package test.controller;
 
 import javafx.application.Platform;
